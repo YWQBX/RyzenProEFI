@@ -1,5 +1,7 @@
 # RyzenPro Opencore Setup (OC ver0.6.0)
 
+This is a desktop build, hardware needs to be somehow compitiable or identical from the hardware list below.
+
 #### Current hardware
 * MotherBoard: ROG CROSSHAIR VI HERO AMD X370 ATX
 * CPU: AMD Ryzen 7 1800X 3.60GHz
