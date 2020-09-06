@@ -1,0 +1,15 @@
+# RyzenPro Opencore Setup
+
+#### Current hardware
+* MotherBoard: ROG CROSSHAIR VI HERO AMD X370 ATX
+* CPU: AMD Ryzen 7 1800X 3.60GHz
+* RAM: HyperX Fury DDR4 2400 16GB x2
+* GPU: STRIX R9-380 DC2OC 4GD5 GAMING
+* WiFi: Dell Wireless 1820A 802.11ac
+* Ethernet: Intel® I211-AT, 1 x Gigabit
+* Storage: kingston UV500 480GB
+* Power: Corsair RM650X 650W
+* KeyBoard: FILCO Majestouch Stingray
+* Mouse: Razer DEATHADDER CHROMA
+* Display: AOC U2790VQ
+* Sound: Steinberg UR12
