@@ -1,4 +1,4 @@
-# RyzenPro Opencore Setup
+# RyzenPro Opencore Setup (OC ver0.6.0)
 
 #### Current hardware
 * MotherBoard: ROG CROSSHAIR VI HERO AMD X370 ATX
@@ -17,4 +17,6 @@
 * Mouse: Razer DEATHADDER CHROMA
 * Display: AOC U2790VQ
 * Sound: Steinberg UR12
-* 
+
+#### Know Issue
+* none
