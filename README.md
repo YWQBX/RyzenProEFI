@@ -17,3 +17,4 @@
 * Mouse: Razer DEATHADDER CHROMA
 * Display: AOC U2790VQ
 * Sound: Steinberg UR12
+* 
