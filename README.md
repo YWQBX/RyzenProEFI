@@ -1,4 +1,4 @@
-# RyzenPro Opencore Setup (OC ver0.6.0)
+# RyzenPro Opencore Setup (OC ver0.6.1)
 
 This is a desktop build, hardware needs to be somehow compitiable or identical from the hardware list below.
 
@@ -21,4 +21,4 @@ This is a desktop build, hardware needs to be somehow compitiable or identical f
 * Sound: Steinberg UR12
 
 #### Know Issue
-* none
+* some random freeze
