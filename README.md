@@ -1,6 +1,7 @@
 # RyzenPro Opencore Setup (OC ver0.6.2)
 
 This is a desktop build, hardware needs to be somehow compitiable or identical from the hardware list below.
+11.0 BigSur Support
 
 #### Current hardware
 * MotherBoard: ROG CROSSHAIR VI HERO AMD X370 ATX
