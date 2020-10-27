@@ -1,4 +1,4 @@
-# RyzenPro Opencore Setup (OC ver0.6.1)
+# RyzenPro Opencore Setup (OC ver0.6.2)
 
 This is a desktop build, hardware needs to be somehow compitiable or identical from the hardware list below.
 
@@ -7,7 +7,7 @@ This is a desktop build, hardware needs to be somehow compitiable or identical f
 * CPU: AMD Ryzen 7 1800X 3.60GHz
  https://github.com/AMD-OSX/AMD_Vanilla
 * RAM: HyperX Fury DDR4 2400 16GB x2
-* GPU: STRIX R9-380 DC2OC 4GD5 GAMING
+* GPU: STRIX R9-285 4GD5
  https://dortania.github.io/Getting-Started-With-ACPI/Universal/spoof.html
 * WiFi: Dell Wireless 1820A 802.11ac
  CH:https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html
